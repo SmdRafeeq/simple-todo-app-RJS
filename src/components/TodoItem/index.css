@@ -1,0 +1,19 @@
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.delete-button {
+    background-color: transparent;
+    border: 2px solid #ff0b37;
+    color: #ff0b37;
+    font-size: 18px;
+    border-radius: 8px;
+    width: 100px;
+    height: 40px;
+}
